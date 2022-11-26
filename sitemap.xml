@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://github.com/teamtomo/teamtomo-unets/</loc>
+         <loc>https://teamtomo.org/docs-template/</loc>
          <lastmod>2022-11-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/teamtomo/teamtomo-unets/page/</loc>
+         <loc>https://teamtomo.org/docs-template/page/</loc>
          <lastmod>2022-11-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/teamtomo/teamtomo-unets/section/another_page/</loc>
+         <loc>https://teamtomo.org/docs-template/section/another_page/</loc>
          <lastmod>2022-11-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
